@@ -55,5 +55,13 @@ public class Student {
 		this.address = address;
 	}
 
+	public String[] getLanguages() {
+		return languages;
+	}
+
+	public void setLanguages(String[] languages) {
+		this.languages = languages;
+	}
+
 	
 }
